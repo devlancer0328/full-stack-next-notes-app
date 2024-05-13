@@ -1,3 +1,20 @@
+<p align="center">
+    <img src="./public/next.svg" height="40"/>
+</p>
+
+<h1 align="center">Full-stack Next.js Notes Application</h1>
+
+## Technologies
+
+Used technologies:
+
+- TypeScript
+- Next.js
+- React.js
+- AoS.js
+- Tailwind CSS
+- SCSS
+
 ## Getting Started
 
 First, install all dependencies:
