@@ -2,7 +2,8 @@
     <img src="./public/next.svg" height="40"/>
 </p>
 
-<h1 align="center">Full-stack Next.js Notes Application</h1>
+<h1 align="center">Next.js Notes Application</h1>
+<p align="center">Full-stack App</p>
 
 ## Technologies
 
@@ -11,9 +12,7 @@ Used technologies:
 - TypeScript
 - Next.js
 - React.js
-- AoS.js
 - Tailwind CSS
-- SCSS
 
 ## Getting Started
 
