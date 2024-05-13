@@ -14,6 +14,10 @@ Used technologies:
 - React.js
 - Tailwind CSS
 
+Used also:
+
+- react-icons
+
 ## Getting Started
 
 First, install all dependencies:
