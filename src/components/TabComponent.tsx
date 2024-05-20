@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 
 const TabComponent = () => {
-  const [activeTab, setActiveTab] = useState("notifications");
+  const [activeTab, setActiveTab] = useState("");
 
   const handleTabClick = (tab: any) => {
     setActiveTab(tab);
