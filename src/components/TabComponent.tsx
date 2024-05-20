@@ -16,14 +16,16 @@ const TabComponent = () => {
         </label>
         <select
           id="Tab"
-          className="w-full rounded-md border-gray-200"
+          className="w-full rounded-md border border-1 border-gray-200 p-2"
           value={activeTab}
           onChange={(e) => handleTabClick(e.target.value)}
         >
-          <option value="settings">Settings</option>
-          <option value="messages">Messages</option>
-          <option value="archive">Archive</option>
-          <option value="notifications">Notifications</option>
+          <option value="teamb">Team B</option>
+          <option value="teamc">Team C</option>
+          <option value="teamd">Team D</option>
+          <option value="teame">Team E</option>
+          <option value="teamf">Team F</option>
+          <option value="teamm">Team M</option>
         </select>
       </div>
 
