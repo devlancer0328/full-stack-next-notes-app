@@ -1,5 +1,6 @@
 "use client";
 import React, { useState } from "react";
+import NotesArea from "./Notes/NotesArea";
 
 const TabComponent = () => {
   const [activeTab, setActiveTab] = useState("");
@@ -113,7 +114,7 @@ const TabComponent = () => {
       <div className="mt-4">
         {activeTab === "teamb" && (
           <div>
-            <p>Team B content goes here.</p>
+            <NotesArea />
           </div>
         )}
         {activeTab === "teamc" && (
