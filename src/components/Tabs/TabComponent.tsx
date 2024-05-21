@@ -10,7 +10,7 @@ const TabComponent = () => {
   };
 
   return (
-    <div className="mt-4">
+    <div className="mt-3">
       <div className="sm:hidden">
         <label htmlFor="Tab" className="sr-only">
           Tab
