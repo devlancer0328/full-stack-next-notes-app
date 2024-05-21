@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import NotesArea from "./Notes/NotesArea";
+import NotesArea from "../Notes/NotesArea";
 
 const TabComponent = () => {
   const [activeTab, setActiveTab] = useState("");

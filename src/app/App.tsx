@@ -1,4 +1,4 @@
-import TabComponent from "@/components/TabComponent";
+import TabComponent from "@/components/Tabs/TabComponent";
 import Title from "@/components/Title/Title";
 import React from "react";
 
