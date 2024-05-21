@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import NotesArea from "../Notes/NotesArea";
 
 const TabComponent = () => {
-  const [activeTab, setActiveTab] = useState("");
+  const [activeTab, setActiveTab] = useState("teamb");
 
   const handleTabClick = (tab: any) => {
     setActiveTab(tab);
