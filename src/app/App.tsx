@@ -4,7 +4,7 @@ import React from "react";
 
 const App = () => {
   return (
-    <section className="bg-white rounded-xl p-4 shadow-lg w-full lg:w-[880px] min-h-[420px] m-4">
+    <section className="bg-white rounded-xl p-4 shadow-lg w-[94%] lg:w-[880px] min-h-[420px] lg:m-4">
       <Title />
       <TabComponent />
     </section>
