@@ -3,7 +3,7 @@ import React from "react";
 const TitleButton = () => {
   return (
     <a
-      className="group relative inline-flex items-center overflow-hidden rounded border border-current px-6 py-2 text-black focus:outline-none focus:ring hover:text-yellow-400"
+      className="group relative inline-flex items-center overflow-hidden rounded border border-current px-6 py-2 text-black focus:outline-none focus:ring hover:text-yellow-400 hover:bg-[rgba(0,0,0,0.74)]"
       href="#"
     >
       <span className="absolute -end-full transition-all group-hover:end-4">
