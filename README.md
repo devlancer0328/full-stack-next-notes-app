@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./public/next.svg" height="40"/>
+    <img src="./src/img/readme_logo/readme-logo.jpg" height="80"/>
 </p>
 
 <h1 align="center">Next.js Notes Application</h1>
