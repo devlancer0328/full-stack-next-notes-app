@@ -46,9 +46,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Live link
-
-https://goldipl.github.io/full-stack-next-notes-app/
 
 ## Learn More
 
